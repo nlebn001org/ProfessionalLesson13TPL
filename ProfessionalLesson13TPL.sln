@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProfessionalLesson13TPLTask1", "ProfessionalLesson13TPLTask1\ProfessionalLesson13TPLTask1.csproj", "{794A788F-9DD3-4850-9867-6DE54B5F4CC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProfessionalLesson13TPLTask2", "ProfessionalLesson13TPLTask2\ProfessionalLesson13TPLTask2.csproj", "{5461EED9-AE13-4EAA-94E9-48632AAC6102}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{794A788F-9DD3-4850-9867-6DE54B5F4CC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{794A788F-9DD3-4850-9867-6DE54B5F4CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{794A788F-9DD3-4850-9867-6DE54B5F4CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{794A788F-9DD3-4850-9867-6DE54B5F4CC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5461EED9-AE13-4EAA-94E9-48632AAC6102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5461EED9-AE13-4EAA-94E9-48632AAC6102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5461EED9-AE13-4EAA-94E9-48632AAC6102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5461EED9-AE13-4EAA-94E9-48632AAC6102}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A71CEF9E-2018-40BB-A894-4177FC55984A}
+	EndGlobalSection
+EndGlobal
